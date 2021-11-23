@@ -1,6 +1,6 @@
 {
   "name": "eo-auth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generates and stores an access token for the Electric Objects API using your login credentials",
   "main": "auth.js",
   "bin": {
@@ -21,5 +21,9 @@
     "mkdirp": "^1.0.4",
     "request": "^2.88.2",
     "request-promise-native": "^1.0.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bertrandom/eo-auth.git"
+  }  
 }
